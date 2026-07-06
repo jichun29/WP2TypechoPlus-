@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="WP2TypechoPlus" src="https://github.com/user-attachments/assets/7c36d5ec-83e6-44ee-a8cb-549f3e249274" />![正在上传 WP2TypechoPlus.png…]()
+
+
 # WP2Typecho Plus
 
 WP2Typecho Plus 是基于 Typecho 官方文档中 WordPress to Typecho 迁移插件二次优化的版本, 用于将 WordPress 数据库中的文章、页面、评论、分类和标签迁移到当前 Typecho 站点。
