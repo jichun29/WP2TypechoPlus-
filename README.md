@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="WP2TypechoPlus" src="https://github.com/user-attachments/assets/7c36d5ec-83e6-44ee-a8cb-549f3e249274" />![正在上传 WP2TypechoPlus.png…]()
+<img width="1536" height="1024" alt="WP2TypechoPlus" src="https://github.com/user-attachments/assets/7c36d5ec-83e6-44ee-a8cb-549f3e249274" />
 
 
 # WP2Typecho Plus
